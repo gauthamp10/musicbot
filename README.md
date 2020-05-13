@@ -3,6 +3,7 @@ A simple music bot. Ask any song and it will find you the streaming link.
 
 **See it in action** <a href="https://telegram.me/bulo_musicbot">MusicBot</a>
 
+![musicbot-in-action](https://imgur.com/SCWcwpT.png)
 
 ### Author
 

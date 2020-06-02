@@ -5,6 +5,8 @@ A simple music bot. Ask any song and it will find you the streaming link.
 
 ![musicbot-in-action](https://imgur.com/SCWcwpT.png)
 
+[![HitCount](http://hits.dwyl.com/gauthamp10/musicbot.svg)](http://hits.dwyl.com/gauthamp10/musicbot)
+
 ### Author
 
  **Gautham Prakash**
